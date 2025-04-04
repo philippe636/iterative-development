@@ -1,0 +1,5 @@
+[project]
+name = "iterative-development"
+version = "0.1.0"
+description = "Iterative development methodology plugin for Claude Code — extracts requirements, defines walking skeleton, loops through audited sprints autonomously"
+requires-python = ">=3.10"
